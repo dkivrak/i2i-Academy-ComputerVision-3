@@ -1,4 +1,4 @@
-# i2i Academy Computer Vision Homework
+# i2i Academy - Computer Vision 
 
 This project is a real-time hand tracking and finger counting application developed with Python, OpenCV, and MediaPipe.
 
